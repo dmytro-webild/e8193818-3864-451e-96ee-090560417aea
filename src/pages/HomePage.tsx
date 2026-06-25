@@ -106,7 +106,7 @@ export default function HomePage() {
           price: "$5,500",
           description: "For scaling businesses needing more features.",
           features: [
-            "$5,500 CMS",
+            "$2,500 CMS",
             "Blog Integration",
             "Analytics Dashboard",
             "Priority Support",
