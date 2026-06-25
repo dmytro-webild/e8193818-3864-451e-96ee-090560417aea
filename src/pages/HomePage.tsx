@@ -127,7 +127,7 @@ export default function HomePage() {
             "Dedicated Project Manager",
           ],
           primaryButton: {
-            text: "Contact Sales",
+            text: "Choose Enterprise",
             href: "https://buy.stripe.com/cNidRaehy9h7cYQ4w60kE04",
           },
         },
