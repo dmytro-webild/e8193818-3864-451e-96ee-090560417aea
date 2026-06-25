@@ -106,7 +106,7 @@ export default function HomePage() {
           price: "$5,000",
           description: "For scaling businesses needing more features.",
           features: [
-            "Custom CMS",
+            "$5,000 CMS",
             "Blog Integration",
             "Analytics Dashboard",
             "Priority Support",
@@ -118,11 +118,11 @@ export default function HomePage() {
         },
         {
           tag: "Enterprise",
-          price: "Custom",
+          price: "$5,000",
           description: "For established brands requiring custom solutions.",
           features: [
             "API Integrations",
-            "Custom Backend",
+            "$5,000 Backend",
             "Advanced Analytics",
             "Dedicated Project Manager",
           ],
