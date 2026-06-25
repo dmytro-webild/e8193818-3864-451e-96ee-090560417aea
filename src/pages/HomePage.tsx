@@ -98,7 +98,7 @@ export default function HomePage() {
           ],
           primaryButton: {
             text: "Choose Launch",
-            href: "#contact",
+            href: "https://buy.stripe.com/00w4gAddufFv7EwaUu0kE02",
           },
         },
         {
