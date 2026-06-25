@@ -89,7 +89,7 @@ export default function HomePage() {
       plans={[
         {
           tag: "Launch",
-          price: "$1,500",
+          price: "$1,200",
           description: "Perfect for new local startups.",
           features: [
             "Landing Page",
