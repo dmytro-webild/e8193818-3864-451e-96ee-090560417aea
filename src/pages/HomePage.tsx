@@ -113,7 +113,7 @@ export default function HomePage() {
           ],
           primaryButton: {
             text: "Choose Growth",
-            href: "#contact",
+            href: "https://buy.stripe.com/fZuaEYgpG1OF4ske6G0kE03",
           },
         },
         {
