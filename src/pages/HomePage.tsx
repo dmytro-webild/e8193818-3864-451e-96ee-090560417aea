@@ -238,8 +238,8 @@ export default function HomePage() {
       tag="Get In Touch"
       text="Ready to elevate your digital presence?"
       primaryButton={{
-        text: "Contact Us",
-        href: "#",
+        text: "281-300-2903",
+        href: "tel:281-300-2903",
       }}
       secondaryButton={{
         text: "View Portfolio",
