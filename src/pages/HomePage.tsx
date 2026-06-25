@@ -224,7 +224,7 @@ export default function HomePage() {
         },
         {
           question: "How long does it take?",
-          answer: "Standard projects typically take 4-8 weeks from kickoff to launch.",
+          answer: "Standard projects typically t from kickoff to launch.",
         },
       ]}
       imageSrc="http://img.b2bpic.net/free-photo/serious-businessman-headset-using-laptop_74855-3069.jpg"
